@@ -1,0 +1,1 @@
+g++ 1605082_main.cpp -lglut -lGLU -lGL -o 1605082 && ./1605082
